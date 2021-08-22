@@ -1,0 +1,2 @@
+# whitePaper
+Nuqud White Paper
